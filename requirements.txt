@@ -1,0 +1,2 @@
+git+https://github.com/hairprasath6112001/hamazonscrapper.git
+discord_webhooks
